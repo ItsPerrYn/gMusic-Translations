@@ -52,7 +52,7 @@ $lang["maxcdn"] = "MaxCDN";
 $lang["contact"] = "Kontakt";
 $lang["signinwithsteam"] = "Logga in med Steam!";
 
-$lang["stats"] = "STATISTICS";
+$lang["stats"] = "STATISTIK";
 $lang["stats_songs"] = "Totala låtar registrerade hos gMusic";
 $lang["stats_users"] = "Totala användare registrerade hos gMusic";
 $lang["stats_servers"] = "Totala servrar registrerade hos gMusic";
@@ -203,4 +203,4 @@ $lang["404_contact"] = 'Om du kom hit från en valid länk, vänligen <a href="/
 $lang["contact"] = "Kontakt";
 
 
-$lang["stats_views"] = "Totala antal serveranslutningar med gMusic";
+$lang["stats_views"] = "Totala serveranslutningar med gMusic";
