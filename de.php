@@ -17,6 +17,7 @@ $lang["options"] = // don't worry about editing this part
 <li><a onclick="setlang('pt-br');">Português Brasileiro</a></li>
 <li><a onclick="setlang('ru');">Русский</a></li>
 <li><a onclick="setlang('fr');">Français</a></li>
+<li><a onclick="setlang('sv');">Svenska</a></li>
 EOT;
 // --- Translations
 // Sidebar
